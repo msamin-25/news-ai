@@ -1,10 +1,13 @@
 # 📰 AI News Summarizer
 
-# more updates coming soon
+# more updates coming soon *****
 
 An AI-powered news aggregator that fetches the latest headlines, summarizes them into short and easy-to-read snippets, saves your reading history, and even reads news aloud with **Text-to-Speech (TTS)** or sends you a **daily email digest**.
 
-Built with **Python**, **Streamlit**, and **NLP**.
+Built with 
+**Python**, 
+**Streamlit**, and 
+**NLP**.
 
 ---
 
